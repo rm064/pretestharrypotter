@@ -1,10 +1,10 @@
-id,name,type,age dr,year ,genre,age rg,age ew
+id,name,type,age dr,year,genre,age rg,age ew
 dr,Daniel Radcliff,1,,,,,
 eq,Emma Watson,1,,,,,
 rg,Rupert Grint,1,,,,,
 db,December Boys,2,17,2007,,,
 mbj,My Boy Jack,2,17,2007,,,
-dsudb,Die schöne und das Biest,2,,2017,,,
+dsudb,Die Schoene und das Biest,2,,2017,,,
 hp1,Harry Potter 1,2,12,2001,,13,11
 hp2,Harry Potter 2,2,13,2002,,14,12
 hp3,Harry Potter 3,2,15,2004,,16,14
@@ -17,7 +17,7 @@ dsvp,Der Schneider von Panama,2,12,2001,,,
 dfis,Die Frau in Schwarz,2,23,2012,,,
 kyd,Kill Your Darlings,2,24,2013,,,
 ho,Horns,2,24,2013,,,
-tfw,The F-Word,2,24,2013,,,
+tfw,The F Word,2,24,2013,,,
 dq,Dating Queen,2,26,2015,,,
 tg,The Gamechangers,2,26,2015,,,
 vf,Victor Frankenstein,2,26,2015,,,
@@ -33,7 +33,7 @@ efp,Escape from Pretoria,2,31,2020,,,
 tlc,The Lost City,2,33,2022,,,
 we,Weird,2,33,2022,,,
 dh,Donnerhosen,2,,2002,,14,
-hbpp,"Happy Birthday, Peter Pan",2,,2005,,17,
+hbpp,"Happy Birthday Peter Pan",2,,2005,,17,
 ume,Unterwegs mit Evie,2,,2006,,18,
 cb,Cherrybomb,2,,2009,,21,
 wt,Wild Target,2,,2010,,22,
