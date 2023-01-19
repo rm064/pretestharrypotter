@@ -1,4 +1,4 @@
-id,name,type ,age dr,year ,genre,age rg,age ew
+id,name,type,age dr,year ,genre,age rg,age ew
 dr,Daniel Radcliff,1,NA,NA,NA,NA,NA
 eq,Emma Watson,1,NA,NA,NA,NA,NA
 rg,Rupert Grint,1,NA,NA,NA,NA,NA
@@ -14,7 +14,7 @@ hp6,Harry Potter 6,2,20,2009,NA,21,19
 hp7,Harry Potter 7,2,21,2010,NA,22,20
 hp8,Harry Potter 8,2,22,2011,NA,23,21
 dsvp,Der Schneider von Panama,2,12,2001,NA,NA,NA
-dfis,Die Frau in Schwarz ,2,23,2012,NA,NA,NA
+dfis,Die Frau in Schwarz,2,23,2012,NA,NA,NA
 kyd,Kill Your Darlings,2,24,2013,NA,NA,NA
 ho,Horns,2,24,2013,NA,NA,NA
 tfw,The F-Word,2,24,2013,NA,NA,NA
@@ -23,7 +23,7 @@ tg,The Gamechangers,2,26,2015,NA,NA,NA
 vf,Victor Frankenstein,2,26,2015,NA,NA,NA
 sam,Swiss Army Man,2,27,2016,NA,NA,NA
 du2,Die Unfassbaren 2,2,27,2016,NA,NA,NA
-im,Imperium ,2,27,2016,NA,NA,NA
+im,Imperium,2,27,2016,NA,NA,NA
 lil,Lost in London,2,28,2017,NA,NA,NA
 ju,Jungle,2,28,2017,NA,NA,NA
 dk,Der Kurier,2,29,2018,NA,NA,NA
@@ -37,12 +37,12 @@ hbpp,"Happy Birthday, Peter Pan",2,NA,2005,NA,17,NA
 ume,Unterwegs mit Evie,2,NA,2006,NA,18,NA
 cb,Cherrybomb,2,NA,2009,NA,21,NA
 wt,Wild Target,2,NA,2010,NA,22,NA
-itw,Into the White ,2,NA,2012,NA,24,NA
+itw,Into the White,2,NA,2012,NA,24,NA
 llcc,Lang lebe Charlie Countryman,2,NA,2013,NA,25,NA
 fus,Fussball,2,NA,2013,NA,25,NA
 cbgb,CBGB,2,NA,2013,NA,25,NA
 sc,Super Clyde,2,NA,2013,NA,25,NA
-pp,Postman Pat: The Movie,2,NA,2014,NA,26,NA
+pp,Postman Pat:The Movie,2,NA,2014,NA,26,NA
 iod,Instruments of Darkness,2,NA,2014,NA,26,NA
 mw,Moonwalkers,2,NA,2015,NA,27,NA
 bs,Ballet Shoes,2,NA,2007,NA,NA,17
@@ -50,7 +50,7 @@ dpx,Despereaux,2,NA,2008,NA,NA,18
 mwwm,My Week with Marilyn,2,NA,2011,NA,NA,21
 vllm,Vielleicht lieber morgen,2,NA,2012,NA,NA,22
 tbr,The Bling Ring,2,NA,2013,NA,NA,23
-dide,Das ist das Ende ,2,NA,2013,NA,NA,23
+dide,Das ist das Ende,2,NA,2013,NA,NA,23
 noa,Noah,2,NA,2014,NA,NA,24
 cod,Colonia Dignidad,2,NA,2015,NA,NA,25
 reg,Regression,2,NA,2015,NA,NA,25
